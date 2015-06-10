@@ -1,3 +1,5 @@
+Fin al Year Project 
+
 needs: libmysqlclient-dev
 needs: Database called testdb (CREATE DATABSE testdb;)
 
